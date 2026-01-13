@@ -8,9 +8,7 @@
 ## 🏆 Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dtbsisco&background=313338&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff&border_color=313338)
 
-![GitHub stats card](https://github-readme-stats.vercel.app/api?username=dtbsisco&count_private=true&show_icons=true&hide=contribs,prs&include_all_commits=true&title_color=ffffff&text_color=ffffff&bg_color=313338&icon_color=ffffff)
-
-![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dtbsisco&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=313338)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dtbsisco&bg_color=313338&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=My%20GitHub%20Activity)](https://github.com/dtbsisco/github-readme-activity-graph)
 
 ## ✉ Contact
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/1180583624567967786)
