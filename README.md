@@ -1,4 +1,4 @@
-## Programming Languages
+<div align="center"><h1>Programming Languages</h1></div><br>
 <div align="center">
   <img src="https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -9,7 +9,7 @@
 
 ---
 
-## GitHub Stats
+<div align="center"><h1>GitHub Stats</h1></div><br>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <!-- Streak -->
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=dtbsisco&theme=dark&hide_border=true" height="200"/>
@@ -21,7 +21,7 @@
 
 ---
 
-## Contact & Social Links
+<div align="center"><h1>Contact & Social Links</h1></div><br>
 <div align="center" style="display:flex; gap: 15px; flex-wrap: wrap;">
   <a href="https://discordapp.com/users/1180583624567967786">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
